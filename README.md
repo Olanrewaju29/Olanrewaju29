@@ -1,7 +1,6 @@
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 # 👋 Hi, I'm Olayinka
 
-![banner or profile picture]([URL_TO_YOUR_IMAGE](https://www.instagram.com/p/CiFAs1cN_T7/))
 - I'm an Azure Devops Engineer from United Kingdom, London. I'm passionate about AWS and Azure Devops, Python Scripting and Learning New Tech Stack.
 
 - 🔭 I’m currently working on: Azure Devops Project with ITC as a Consultant
@@ -17,10 +16,9 @@
 - ⛳ Golf is life
 
 -  _For collaborations, project inquiries or just a chat, feel free to drop me a message!_
-- 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 
 
 - ![DevOps](https://img.shields.io/badge/DevOps-0078D7)
@@ -68,19 +66,24 @@
 - ![Monitoring](https://img.shields.io/badge/Monitoring-lightgrey)
 ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
-
 --- --- --- ---
-- 📈 My GitHub Stats
+#### 🏆 Achievements
+- Microsoft Azure Certification AZ900 (Fundamental)
+- BSC Cybersecurity and Forensics
+- Microsoft Azure Certification 201 (Administrator) ONGOING
+
+--- --- ---
+#### 📊 GitHub Stats
+[![](https://github-readme-stats.vercel.app/api?username=olanrewaju29)](https://github.com/olanrewaju29)
 
 
 
-- 🤝 Connect with me:
+#### 🤝 Connect with me:
 [website]: 
-[linkedin]:
-[twitter]:
 
-- ![](https://komarev.com/ghpvc/?username=olanrewaju29&style=flat-square)
 
-- ⭐️ From [@olanrewaju29](https://github.com/olanrewaju29)
+#### - ![](https://komarev.com/ghpvc/?username=olanrewaju29&style=flat-square)
+
+#### - ⭐️[@olanrewaju29](https://github.com/olanrewaju29)
 
 
